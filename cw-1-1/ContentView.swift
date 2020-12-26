@@ -23,6 +23,8 @@ struct ContentView: View {
             Spacer()
             
             Text("الحمدلله رب العالمين")
+                .font(.largeTitle)
+                .foregroundColor(Color.white)
             
             Spacer()
             
